@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Marshall-A7/COM769%20Coursework%201/_apis/build/status/allywmarsh.pipelines-java?branchName=main)](https://dev.azure.com/Marshall-A7/COM769%20Coursework%201/_build/latest?definitionId=5&branchName=main)
 
 # Contributing
 
